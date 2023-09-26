@@ -1,8 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using MvcLabManager.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddDbContext<LabManagerContext>(options => options.UseSqlite("Data Source=LocalDatabase.db"));
+    
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

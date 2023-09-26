@@ -1144,11 +1144,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/estudante1/Documentos/SP3065791/DataBase/MvcLabManager/MvcLabManager.csproj",
+      "projectUniqueName": "/home/estudante1/Documentos/GitHub/CSharp/DataBase/MvcLabManager/MvcLabManager.csproj",
       "projectName": "MvcLabManager",
-      "projectPath": "/home/estudante1/Documentos/SP3065791/DataBase/MvcLabManager/MvcLabManager.csproj",
+      "projectPath": "/home/estudante1/Documentos/GitHub/CSharp/DataBase/MvcLabManager/MvcLabManager.csproj",
       "packagesPath": "/home/estudante1/.nuget/packages/",
-      "outputPath": "/home/estudante1/Documentos/SP3065791/DataBase/MvcLabManager/obj/",
+      "outputPath": "/home/estudante1/Documentos/GitHub/CSharp/DataBase/MvcLabManager/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/estudante1/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lNjUCsVwUhU9pdXv5bMMzSdIjyUGuCBX3ztH5FoCAce2KM6qbkQq/t4s8phZkpomLvzrHQQRPaMXLuW0QFCYvA==",
+  "dgSpecHash": "FgNQnbPwzGEOsvg4dQQGY0bhiuPVQctJIe3WXRC4UU9F3sQsDNyypHhtwYhDTj1235YptHk0qf4MwJkI7vxtqw==",
   "success": true,
-  "projectFilePath": "/home/estudante1/Documentos/SP3065791/DataBase/MvcLabManager/MvcLabManager.csproj",
+  "projectFilePath": "/home/estudante1/Documentos/GitHub/CSharp/DataBase/MvcLabManager/MvcLabManager.csproj",
   "expectedPackageFiles": [
     "/home/estudante1/.nuget/packages/microsoft.data.sqlite.core/7.0.11/microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "/home/estudante1/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
