@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using MvcLabManager.Models;
-
 namespace MvcLabManager.Controllers;
 
 public class LaboratoryController : Controller
